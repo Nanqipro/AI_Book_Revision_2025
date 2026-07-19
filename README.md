@@ -78,7 +78,7 @@
 
 ### GOODLab
 
-本书由南昌大学 [GOODLab（Group On Optimization and Decision）](https://good.ncu.edu.cn/) 相关团队出品。实验室研究与团队信息以官方网站为准。
+本书由南昌大学 [GOODLab（Generic Operational and Optimal Data Lab）](https://good.ncu.edu.cn/) 相关团队出品。实验室研究与团队信息以官方网站为准。
 
 ### 数字教材平台
 
