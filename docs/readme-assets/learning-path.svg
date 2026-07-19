@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">七章学习路径</title>
+  <desc id="desc">从初识智能、学习基础、核心技术、场景应用、模型初探、项目实践到伦理思考</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7faf8"/>
+      <stop offset="1" stop-color="#edf5f1"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#9ab7aa"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#panel)"/>
+  <text x="60" y="58" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="26" font-weight="750" fill="#153f34">一条从“认识 AI”到“负责任地使用 AI”的学习路径</text>
+
+  <g stroke="#9ab7aa" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <path d="M205 151 H246"/>
+    <path d="M375 151 H416"/>
+    <path d="M545 151 H586"/>
+    <path d="M715 151 H756"/>
+    <path d="M885 151 H926"/>
+    <path d="M1055 151 C1100 151 1110 185 1076 207 L1018 226"/>
+  </g>
+
+  <g font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
+    <g transform="translate(70 102)">
+      <rect width="135" height="98" rx="18" fill="#ffffff" stroke="#d3e3dc"/>
+      <circle cx="28" cy="28" r="16" fill="#cf493d"/>
+      <text x="28" y="34" text-anchor="middle" font-size="16" font-weight="750" fill="#ffffff">1</text>
+      <text x="68" y="38" font-size="19" font-weight="750" fill="#17483a">初识智能</text>
+      <text x="68" y="67" font-size="14" fill="#617a70">定义 · 历史</text>
+    </g>
+    <g transform="translate(240 102)">
+      <rect width="135" height="98" rx="18" fill="#ffffff" stroke="#d3e3dc"/>
+      <circle cx="28" cy="28" r="16" fill="#cf493d"/>
+      <text x="28" y="34" text-anchor="middle" font-size="16" font-weight="750" fill="#ffffff">2</text>
+      <text x="68" y="38" font-size="19" font-weight="750" fill="#17483a">学习基础</text>
+      <text x="68" y="67" font-size="14" fill="#617a70">ML · DL</text>
+    </g>
+    <g transform="translate(410 102)">
+      <rect width="135" height="98" rx="18" fill="#ffffff" stroke="#d3e3dc"/>
+      <circle cx="28" cy="28" r="16" fill="#cf493d"/>
+      <text x="28" y="34" text-anchor="middle" font-size="16" font-weight="750" fill="#ffffff">3</text>
+      <text x="68" y="38" font-size="19" font-weight="750" fill="#17483a">核心技术</text>
+      <text x="68" y="67" font-size="14" fill="#617a70">视觉 · 语音</text>
+    </g>
+    <g transform="translate(580 102)">
+      <rect width="135" height="98" rx="18" fill="#ffffff" stroke="#d3e3dc"/>
+      <circle cx="28" cy="28" r="16" fill="#cf493d"/>
+      <text x="28" y="34" text-anchor="middle" font-size="16" font-weight="750" fill="#ffffff">4</text>
+      <text x="68" y="38" font-size="19" font-weight="750" fill="#17483a">场景应用</text>
+      <text x="68" y="67" font-size="14" fill="#617a70">Agent · 行业</text>
+    </g>
+    <g transform="translate(750 102)">
+      <rect width="135" height="98" rx="18" fill="#ffffff" stroke="#d3e3dc"/>
+      <circle cx="28" cy="28" r="16" fill="#cf493d"/>
+      <text x="28" y="34" text-anchor="middle" font-size="16" font-weight="750" fill="#ffffff">5</text>
+      <text x="68" y="38" font-size="19" font-weight="750" fill="#17483a">模型初探</text>
+      <text x="68" y="67" font-size="14" fill="#617a70">回归 · 参数</text>
+    </g>
+    <g transform="translate(920 102)">
+      <rect width="135" height="98" rx="18" fill="#ffffff" stroke="#d3e3dc"/>
+      <circle cx="28" cy="28" r="16" fill="#cf493d"/>
+      <text x="28" y="34" text-anchor="middle" font-size="16" font-weight="750" fill="#ffffff">6</text>
+      <text x="68" y="38" font-size="19" font-weight="750" fill="#17483a">项目实践</text>
+      <text x="68" y="67" font-size="14" fill="#617a70">数据 · 评估</text>
+    </g>
+    <g transform="translate(850 226)">
+      <rect width="260" height="92" rx="18" fill="#0b5942"/>
+      <circle cx="32" cy="28" r="16" fill="#f0d792"/>
+      <text x="32" y="34" text-anchor="middle" font-size="16" font-weight="750" fill="#153f34">7</text>
+      <text x="80" y="38" font-size="20" font-weight="750" fill="#ffffff">伦理思考</text>
+      <text x="80" y="67" font-size="14" fill="#cfe4dc">偏见 · 隐私 · 安全</text>
+    </g>
+  </g>
+</svg>

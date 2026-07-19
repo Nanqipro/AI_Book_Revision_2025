@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">《人工智能概论：应用驱动的人工智能》</title>
+  <desc id="desc">南昌大学 GOODLab 相关团队出品的人工智能通识教材项目头图</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06271f"/>
+      <stop offset="0.58" stop-color="#0a4938"/>
+      <stop offset="1" stop-color="#0d6a4d"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7d88b"/>
+      <stop offset="1" stop-color="#cf493d"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#001a13" flood-opacity="0.36"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="1080" cy="55" r="180" fill="#ffffff" opacity="0.035"/>
+  <circle cx="1135" cy="440" r="230" fill="#f1c96f" opacity="0.05"/>
+  <path d="M0 410 C230 335 395 520 645 408 S995 320 1200 390" fill="none" stroke="#a5dbc6" stroke-width="2" opacity="0.18"/>
+  <path d="M0 438 C250 365 420 525 690 426 S1000 350 1200 420" fill="none" stroke="#f2d78d" stroke-width="2" opacity="0.16"/>
+
+  <g font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="70" y="54" width="340" height="42" rx="21" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
+    <text x="240" y="82" text-anchor="middle" font-size="18" font-weight="650" fill="#f7f5ec">南昌大学 GOODLab 相关团队出品</text>
+
+    <text x="68" y="185" font-size="64" font-weight="800" letter-spacing="3" fill="#ffffff">人工智能概论</text>
+    <text x="72" y="246" font-size="31" font-weight="600" letter-spacing="5" fill="#f0d792">应用驱动的人工智能</text>
+    <text x="72" y="305" font-size="22" fill="#d3e8df">面向广泛读者 · 从概念、场景到项目与责任</text>
+
+    <g font-size="17" font-weight="600" fill="#f7f5ec">
+      <rect x="70" y="352" width="128" height="42" rx="21" fill="#ffffff" opacity="0.1"/>
+      <text x="134" y="379" text-anchor="middle">通识入门</text>
+      <rect x="214" y="352" width="128" height="42" rx="21" fill="#ffffff" opacity="0.1"/>
+      <text x="278" y="379" text-anchor="middle">场景应用</text>
+      <rect x="358" y="352" width="128" height="42" rx="21" fill="#ffffff" opacity="0.1"/>
+      <text x="422" y="379" text-anchor="middle">项目实践</text>
+      <rect x="502" y="352" width="128" height="42" rx="21" fill="#ffffff" opacity="0.1"/>
+      <text x="566" y="379" text-anchor="middle">伦理思考</text>
+    </g>
+
+    <text x="72" y="437" font-size="16" fill="#a9c9bc">2025 第一版 · LaTeX 教材源稿与配套资源</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="770" y="80" width="330" height="320" rx="30" fill="#ffffff" opacity="0.96"/>
+    <rect x="891" y="171" width="88" height="88" rx="18" fill="url(#chip)"/>
+    <text x="935" y="227" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="32" font-weight="800" fill="#072f25">AI</text>
+
+    <g stroke="#0f6b50" stroke-width="3" fill="none" opacity="0.78">
+      <path d="M891 195 H838 V145"/>
+      <path d="M979 195 H1032 V145"/>
+      <path d="M891 235 H838 V286"/>
+      <path d="M979 235 H1032 V286"/>
+    </g>
+    <g fill="#cf493d">
+      <circle cx="838" cy="145" r="8"/>
+      <circle cx="1032" cy="145" r="8"/>
+      <circle cx="838" cy="286" r="8"/>
+      <circle cx="1032" cy="286" r="8"/>
+    </g>
+    <g font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="650" fill="#124438">
+      <text x="838" y="122" text-anchor="middle">学习</text>
+      <text x="1032" y="122" text-anchor="middle">感知</text>
+      <text x="838" y="319" text-anchor="middle">Agent</text>
+      <text x="1032" y="319" text-anchor="middle">责任</text>
+    </g>
+    <text x="935" y="368" text-anchor="middle" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="650" fill="#6b8078">KNOW · APPLY · REFLECT</text>
+  </g>
+</svg>

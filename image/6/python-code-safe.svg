@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Python 打印 Hello, AI</title>
+  <desc id="desc">不含账号、网址和个人浏览器状态的代码编辑器示意图</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#15263c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2d36e"/>
+      <stop offset="1" stop-color="#4fa88a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" rx="42" fill="url(#bg)"/>
+  <rect x="55" y="55" width="1490" height="790" rx="30" fill="#111b2e" stroke="#30415b" stroke-width="3"/>
+  <rect x="55" y="55" width="1490" height="88" rx="30" fill="#1c2a40"/>
+  <rect x="55" y="113" width="1490" height="30" fill="#1c2a40"/>
+
+  <circle cx="105" cy="99" r="13" fill="#ef6a66"/>
+  <circle cx="148" cy="99" r="13" fill="#edc560"/>
+  <circle cx="191" cy="99" r="13" fill="#58bd7b"/>
+  <text x="800" y="110" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="28" font-weight="700" fill="#d8e4f2">hello_ai.py</text>
+
+  <rect x="55" y="143" width="245" height="702" fill="#0d1627"/>
+  <g font-family="system-ui,-apple-system,sans-serif" font-size="25" fill="#a9b8cb">
+    <text x="98" y="213">EXPLORER</text>
+    <text x="105" y="282" fill="#e0e8f1">▾  AI-START</text>
+    <text x="130" y="339" fill="#8fcfb8">●  hello_ai.py</text>
+  </g>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="34">
+    <text x="345" y="230" fill="#586b84">1</text>
+    <text x="405" y="230" fill="#7dd3fc">message</text>
+    <text x="565" y="230" fill="#d8e4f2">=</text>
+    <text x="610" y="230" fill="#f2d36e">"Hello, AI!"</text>
+
+    <text x="345" y="294" fill="#586b84">2</text>
+
+    <text x="345" y="358" fill="#586b84">3</text>
+    <text x="405" y="358" fill="#c4a7e7">print</text>
+    <text x="502" y="358" fill="#d8e4f2">(</text>
+    <text x="525" y="358" fill="#7dd3fc">message</text>
+    <text x="685" y="358" fill="#d8e4f2">)</text>
+  </g>
+
+  <line x1="300" y1="485" x2="1545" y2="485" stroke="#30415b" stroke-width="3"/>
+  <text x="345" y="548" font-family="system-ui,-apple-system,sans-serif" font-size="23" font-weight="700" letter-spacing="2" fill="#9fb0c5">OUTPUT</text>
+  <rect x="345" y="588" width="1060" height="155" rx="22" fill="#0a1322" stroke="#273a54" stroke-width="2"/>
+  <rect x="345" y="588" width="10" height="155" rx="5" fill="url(#accent)"/>
+  <text x="395" y="680" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="44" font-weight="700" fill="#eef5f2">Hello, AI!</text>
+
+  <text x="1450" y="807" text-anchor="end" font-family="system-ui,-apple-system,sans-serif" font-size="22" fill="#71839b">SAFE TEACHING ILLUSTRATION</text>
+</svg>

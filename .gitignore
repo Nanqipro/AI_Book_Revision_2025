@@ -1,0 +1,56 @@
+# Operating-system metadata
+.DS_Store
+**/.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Local editor and agent state
+.idea/
+.vscode/
+.cursor/
+.claude/
+.codex/
+.agents/
+*.code-workspace
+
+# Credentials and local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+
+# LaTeX build products and caches
+*.aux
+*.bcf
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+_minted-*/
+/book.pdf
+
+# Temporary review output
+/tmp/
+
+# Unused upstream LaTeX-template material kept locally for reference.
+# These paths are not included by book.tex and should not be published by accident.
+/attachment.tex
+/attachment/
+/figures/
+/gallery/
+/references/
+
+# Historical screenshot exposes a private Google Drive document identifier.
+# chapter_6.tex now uses the publication-safe replacement below instead.
+/image/6/Python代码.jpg
